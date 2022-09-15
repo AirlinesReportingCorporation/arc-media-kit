@@ -85,6 +85,23 @@ a.arc-sticky-link-right svg {
 
 @media (max-width: 990px) {
   .arc-sticky-container {
-    display: none;
+    height: auto;
+  }
+  .arc-sticky-nav {
+    padding: 15px;
+    text-align: center;
+    .arc-sticky-brand{
+      justify-content: flex-start;
+      margin-left: 0;
+      a {
+        padding-left: 0;
+      }
+    }
+    .arc-sticky-menu {
+      margin-left: auto;
+    }
+    .arc-sticky-links {
+      display: none !important;
+    }
   }
 }
