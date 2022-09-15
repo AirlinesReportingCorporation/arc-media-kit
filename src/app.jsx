@@ -20,7 +20,7 @@ class App extends Component {
             <div className="row">
               <div className="col-lg-12">
                 <div className="arc-media-kit-jumbo-inner">
-                  <h1>ARC Travel Insight for the Media</h1>
+                  <h1>Air Travel Insight for the Media</h1>
                   <p className="arc-media-kit-subtitle">
                     ARC settled more than $97.4 billion worth of airfare
                     transactions in 2019 between airlines and travel agencies,
