@@ -10,7 +10,7 @@ const extractSass = new MiniCssExtractPlugin({
 
 module.exports = {
   entry: {
-    "arc-thirdparty": "./src/index.jsx",
+    "arc-media-kit": "./src/index.jsx",
   },
   output: {
     filename: "[name].min.js",
