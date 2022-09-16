@@ -47,7 +47,7 @@ class App extends Component {
           <div className="row">
             <div className="col-lg-12">
               <h2>Interested in Speaking to ARC for a Story?</h2>
-              <p className="mb-0" style={{ fontSize: "18px" }}>
+              <p className="mb-0 py-2" style={{ fontSize: "18px" }}>
                 If you need timely data or expert analysis on air travel, we're
                 here to help.
               </p>
