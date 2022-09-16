@@ -13,7 +13,7 @@ class App extends Component {
           title={"Media Kit"}
           links={[{ title: "Frequently Requested Assets", url: "#assets" }]}
           rightLink="mailto:rspoon@arccorp.com"
-          contactUs="Submit a Request"
+          contactUs="Submit a Media Request"
         />
         <div className="arc-media-kit-jumbo">
           <div className="container">
