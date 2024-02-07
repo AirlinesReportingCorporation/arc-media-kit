@@ -80,18 +80,6 @@ class App extends Component {
             </div>
             <div className="col-lg-6">
               <a
-                href="https://www2.arccorp.com/articles-trends/the-latest/coronavirus"
-                className="arc-media-kit-link"
-              >
-                <div>Weekly Segment Data</div>{" "}
-                <img
-                  src="https://www2.arccorp.com/globalassets/about-us/newsroom/media-kit/new-page.png?1"
-                  className="arc-media-kit-icon"
-                />
-              </a>
-            </div>
-            <div className="col-lg-6">
-              <a
                 href="https://www2.arccorp.com/styleguide/visual-identity#typography"
                 className="arc-media-kit-link"
               >
